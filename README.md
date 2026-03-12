@@ -62,24 +62,7 @@
     ├── Features/
     └── Pages/
 ```
-
 ---
-
-## 🖥️ How can you clone and tweak this project?
-
-From your command line, first clone this repo:
-
-```
-# Clone this repository
-$ https://github.com/shakti177/uomo-ecommerce-website-reactjs.git
-
-# Go into the repository
-$ cd uomo-ecommerce-website-reactjs
-
-# Remove current origin repository
-$ git remote remove origin
-
-```
 
 Then you can install the dependencies using NPM:
 
